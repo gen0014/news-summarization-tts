@@ -60,7 +60,7 @@ streamlit run app.py
 ```
 
 ## Deployment
-🚀 **Hugging Face Spaces**: [Live Demo](https://huggingface.co/spaces/YOUR_USERNAME/news-sentiment-tts)
+🚀 **Hugging Face Spaces**: [Live Demo](https://huggingface.co/spaces/genuu/news-sentiment-tts)
 
 ## Contribution
 Feel free to fork this repository and contribute improvements!
